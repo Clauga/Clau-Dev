@@ -2,7 +2,7 @@
 #### A passionate developer
 ![A passionate developer](https://images.pexels.com/photos/3184454/pexels-photo-3184454.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-
+- 📚 I'm studying at WildCodeSchool
 - 🔭 I’m currently working on My project 2 : Orbital Code 
 - 🌱 I’m currently learning JS / REACT / HTML / CSS/ MYSQL 
 - 📫 How to reach me: clau.guerrero@mailo.com 
