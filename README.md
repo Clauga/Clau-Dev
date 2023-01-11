@@ -1,5 +1,5 @@
-### Hi there 👋, My name is Claudia
-#### A passionate developer
+### Hi there ! 👋, My name is Claudia
+#### A passionate developer 
 ![A passionate developer](https://images.pexels.com/photos/3184454/pexels-photo-3184454.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
